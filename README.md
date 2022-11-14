@@ -25,10 +25,6 @@ https://app.devstart.tech/
 Chrome - JavaScript Console - F12
 Notepad ++
 
-5. Inicialização
-
-Informe para quem visitar o seu repositório como inicializar o seu projeto após o git clone, se é necessário rodar um npm ou se precisa instalar alguma dependência na máquina local.
-
-6. Status do projeto
+5. Status do projeto
 
 Concluído para o teste. O código pode ser analisado e aproveitado em desenvolvimento e aprendizagem JavaScript.
